@@ -10,11 +10,6 @@ const ServicesCard = ({imgKey, title, price}) => {
     const payment = document.getElementById('payment');
     payment.dataset.amount = buttonValue;
 
-    var DOMContentLoaded_event = document.createEvent("Event")
-    DOMContentLoaded_event.initEvent("DOMContentLoaded", true, true)
-    window.document.dispatchEvent(DOMContentLoaded_event);
-
-
     const setPrice = (e) => {
         const priceValue = parseInt(e.target.dataset.price);
         setButtonValue(priceValue);

@@ -4,6 +4,7 @@ import items from '../../assets/items.json';
 import { nanoid } from 'nanoid';
 
 const Services = () => {
+        
     return (
         <section className={styles.services} id='services'>
             <h2 className={styles.services_title}>Gifts for all Occasions</h2>
