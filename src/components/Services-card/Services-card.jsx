@@ -24,7 +24,8 @@ const ServicesCard = ({imgKey, title, price}) => {
                     <div onClickCapture={setPrice}  className={styles.price_container}>
                         <h3 className={styles.card_title}>{title}</h3>
                         <div className={styles.price_btn_container}>
-                            <Button data-price={price} variant="warning"  className='rsWidgetButton'>Price {price / 100}$</Button>
+                            <button  className='rsWidgetButton' >Buy</button>
+                            {/* <Button data-price={price} variant="warning"  className='rsWidgetButton'>Price {price / 100}$</Button> */}
                             </div>
                         </div>
                     <SeeMoreBtn />
