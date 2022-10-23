@@ -1,0 +1,25 @@
+.menu_list {
+    margin: 0;
+
+}
+
+@media screen and (min-width: 480px) {
+    .menu_list {
+        display: flex;
+    }
+}
+
+@media screen and (max-width: 479px) {
+    .menu_list {
+        position: absolute;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        background-color:#FAFAFA;
+        top: 6.5%;
+        left: 0;
+        height: 400px;
+    }
+}

@@ -1,0 +1,30 @@
+[
+    {
+        "title": "Birthday",
+        "description": "",
+        "price": 2000,
+        "key": "Birthday"
+    },
+
+    {
+        "title": "Anniversary",
+        "description": "",
+        "price": 4000,
+        "key" : "Anniversary"
+    },
+
+    {
+        "title": "Valentine's Day",
+        "description": "",
+        "price": 7000,
+        "key": "Valentine"
+
+    },
+    
+     {
+        "title": "Christmas",
+        "description": "",
+        "price": 3000,
+        "key": "Christmas"
+    }
+]

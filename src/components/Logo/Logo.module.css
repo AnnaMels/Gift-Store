@@ -1,0 +1,9 @@
+.logo {
+    font-family: 'Homemade apple';
+    font-size: 18px;
+}
+
+.logo_link {
+  text-decoration: none;
+  color: black;  
+}

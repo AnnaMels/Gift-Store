@@ -1,0 +1,12 @@
+.btn {
+    margin-top: 50px;
+    background-color: transparent;
+    color: black;
+    border: 1px solid #F7941E;
+}
+
+.btn:hover {
+background-color: #F7941E;
+color: #ffffff;
+    border: 1px solid #F7941E;
+}
