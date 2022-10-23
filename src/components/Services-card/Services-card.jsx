@@ -21,7 +21,7 @@ const ServicesCard = ({imgKey, title, description, price}) => {
             <li className={styles.card}>
                 <img className={styles.card_img} src={getImageByKey(imgKey)} alt={title} />
                 <div className={styles.card_text_wrapper}>
-                    <div onClickCapture={setPrice} onTouchStart={setPrice} className={styles.price_container}>
+                    <div  className={styles.price_container}>
                         <h3 className={styles.card_title}>{title}</h3>
                         <div className={styles.price_btn_container}>
                             <Button  onTouchStart={setPrice} data-price={price} variant="warning" id="mainButton" className='rsWidgetButton'>Price {price / 100}$</Button>
