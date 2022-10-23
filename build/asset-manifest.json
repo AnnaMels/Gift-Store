@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.5c14eeb7.css",
-    "main.js": "/static/js/main.fc4cf3d4.js",
-    "static/media/hero-img.png": "/static/media/hero-img.99eee273c95064876034.png",
-    "static/media/about-section-img.png": "/static/media/about-section-img.d1cce8e6ebb68bd3fc35.png",
-    "static/media/Couple.png": "/static/media/Couple.b9bef8f88146548d0e12.png",
-    "static/media/Christmas.png": "/static/media/Christmas.a7a2ab4348856706c998.png",
-    "static/media/Anniversary.png": "/static/media/Anniversary.f54bf1d502ef9d9be4c8.png",
-    "static/media/Valentine-day.png": "/static/media/Valentine-day.8946ffb8039ba4ecd198.png",
-    "static/media/Birthday.png": "/static/media/Birthday.05adca11a19ccf525b6e.png",
-    "index.html": "/index.html",
-    "static/media/insta.svg": "/static/media/insta.730c4078da85646d1485b3c7f551e269.svg",
-    "static/media/twitter.svg": "/static/media/twitter.b1773248169d52bfe0a39f66dff1a37b.svg",
-    "static/media/pinterest.svg": "/static/media/pinterest.105c8037f711d8898883656468bcffd4.svg",
-    "static/media/youtube.svg": "/static/media/youtube.70815a002e245e3c15275890fc10fca6.svg",
-    "static/media/facebook.svg": "/static/media/facebook.9c9129e1ff090df851f4ef59d2ad8152.svg",
-    "static/media/icon-menu.svg": "/static/media/icon-menu.5cc298bdc5569baa23804e2131076e6f.svg",
-    "main.5c14eeb7.css.map": "/static/css/main.5c14eeb7.css.map",
-    "main.fc4cf3d4.js.map": "/static/js/main.fc4cf3d4.js.map"
+    "main.css": "/Gift-Store/static/css/main.5c14eeb7.css",
+    "main.js": "/Gift-Store/static/js/main.f5373402.js",
+    "static/media/hero-img.png": "/Gift-Store/static/media/hero-img.99eee273c95064876034.png",
+    "static/media/about-section-img.png": "/Gift-Store/static/media/about-section-img.d1cce8e6ebb68bd3fc35.png",
+    "static/media/Couple.png": "/Gift-Store/static/media/Couple.b9bef8f88146548d0e12.png",
+    "static/media/Christmas.png": "/Gift-Store/static/media/Christmas.a7a2ab4348856706c998.png",
+    "static/media/Anniversary.png": "/Gift-Store/static/media/Anniversary.f54bf1d502ef9d9be4c8.png",
+    "static/media/Valentine-day.png": "/Gift-Store/static/media/Valentine-day.8946ffb8039ba4ecd198.png",
+    "static/media/Birthday.png": "/Gift-Store/static/media/Birthday.05adca11a19ccf525b6e.png",
+    "index.html": "/Gift-Store/index.html",
+    "static/media/insta.svg": "/Gift-Store/static/media/insta.730c4078da85646d1485b3c7f551e269.svg",
+    "static/media/twitter.svg": "/Gift-Store/static/media/twitter.b1773248169d52bfe0a39f66dff1a37b.svg",
+    "static/media/pinterest.svg": "/Gift-Store/static/media/pinterest.105c8037f711d8898883656468bcffd4.svg",
+    "static/media/youtube.svg": "/Gift-Store/static/media/youtube.70815a002e245e3c15275890fc10fca6.svg",
+    "static/media/facebook.svg": "/Gift-Store/static/media/facebook.9c9129e1ff090df851f4ef59d2ad8152.svg",
+    "static/media/icon-menu.svg": "/Gift-Store/static/media/icon-menu.5cc298bdc5569baa23804e2131076e6f.svg",
+    "main.5c14eeb7.css.map": "/Gift-Store/static/css/main.5c14eeb7.css.map",
+    "main.f5373402.js.map": "/Gift-Store/static/js/main.f5373402.js.map"
   },
   "entrypoints": [
     "static/css/main.5c14eeb7.css",
-    "static/js/main.fc4cf3d4.js"
+    "static/js/main.f5373402.js"
   ]
 }
